@@ -53,7 +53,7 @@ No build steps — no dependencies — just run and go!
 
 Example:
 
-![Color Picker Screenshot](./assets/screenshot.png)
+![Color Picker Screenshot](./assets/color-generator.png)
 
 ✨ Future Enhancements
 
