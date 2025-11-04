@@ -35,7 +35,7 @@ Clicking a color or HEX code copies it to clipboard
 
 🚀 Getting Started
 Clone project
-git clone https://github.com/your-username/color-picker-app.git
+git clone https://github.com/your-username/color-picker-app.git](https://github.com/kpwebdevelopment/color-generator)
 
 Open locally
 
@@ -51,7 +51,6 @@ No build steps — no dependencies — just run and go!
 
 📸 Demo
 
-Add screenshot or GIF here
 Example:
 
 ![Color Picker Screenshot](./assets/screenshot.png)
