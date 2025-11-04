@@ -1,4 +1,4 @@
-🎨 Color Picker App
+🎨 Color Generator App
 
 A simple and intuitive web app that helps users generate color palettes from a selected base color. Users can choose a color, select a color scheme mode, and instantly view a curated palette. Built with HTML, CSS, and JavaScript and powered by The Color API.
 
